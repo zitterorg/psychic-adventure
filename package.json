@@ -1,6 +1,6 @@
 {
   "name": "@zitterorg/psychic-adventure",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "",
   "main": "index.js",
   "author": "zitterfe",
@@ -34,7 +34,14 @@
     "@zitterorg/quibusdam-sit-qui": "^1.1.1",
     "@zitterorg/reiciendis-minima-excepturi": "^1.0.1",
     "@zitterorg/upgraded-fishstick": "^1.1.1",
-    "@zitterorg/vel-at-tenetur": "^1.0.1"
+    "@zitterorg/vel-at-tenetur": "^1.0.1",
+    "analsorhost-simple-bs": "^1.0.1",
+    "corcojs-qrcode": "^1.0.0",
+    "corcojs-qrcode-logo": "^1.0.0",
+    "dable-effect": "^1.0.2",
+    "firan-logging": "^1.0.0",
+    "simple-assi-animation": "^1.0.1",
+    "simple-prompts-web3": "^1.0.1"
   },
   "keywords": [
     "performance",
