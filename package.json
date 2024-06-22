@@ -1,6 +1,6 @@
 {
   "name": "@zitterorg/psychic-adventure",
-  "version": "3.5.42",
+  "version": "3.5.43",
   "description": "",
   "main": "index.js",
   "author": "zitterfe",
@@ -299,5 +299,5 @@
   "bugs": {
     "url": "https://github.com/zitterorg/psychic-adventure/issues"
   },
-  "packageManager": "yarn@4.3.0"
+  "packageManager": "yarn@4.3.1"
 }
